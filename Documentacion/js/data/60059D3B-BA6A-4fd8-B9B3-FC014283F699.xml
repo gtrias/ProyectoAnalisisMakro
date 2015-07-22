@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0:1", "", "Diagrama de clases del dominio", "EARoot/EA1.htm", "175.png", "17", "0", "", "Logical diagram");
+tocTab[tocTab.length] = new Array("0:2", "", "Articulo", "EARoot/EA4.htm", "5.png", "85786428", "0", "", "Class");
+tocTab[tocTab.length] = new Array("0:3", "", "AvisoReserva", "EARoot/EA5.htm", "5.png", "684579359", "0", "", "Class");
+tocTab[tocTab.length] = new Array("0:4", "", "AvisoStock", "EARoot/EA6.htm", "5.png", "109485970", "0", "", "Class");
+tocTab[tocTab.length] = new Array("0:5", "", "Bloqueo", "EARoot/EA7.htm", "5.png", "-1733335454", "0", "", "Class");
+tocTab[tocTab.length] = new Array("0:6", "", "Cliente", "EARoot/EA8.htm", "5.png", "1224336497", "0", "", "Class");
+tocTab[tocTab.length] = new Array("0:7", "", "LiniaPedido", "EARoot/EA10.htm", "5.png", "-621126395", "0", "", "Class");
+tocTab[tocTab.length] = new Array("0:8", "", "LiniaReserva", "EARoot/EA11.htm", "5.png", "1212604955", "0", "", "Class");
+tocTab[tocTab.length] = new Array("0:9", "", "LiniaVenta", "EARoot/EA12.htm", "5.png", "1010766983", "0", "", "Class");
+tocTab[tocTab.length] = new Array("0:10", "", "PaseDia", "EARoot/EA14.htm", "5.png", "-455120899", "0", "", "Class");
+tocTab[tocTab.length] = new Array("0:11", "", "Pedido", "EARoot/EA15.htm", "5.png", "1203588201", "0", "", "Class");
+tocTab[tocTab.length] = new Array("0:12", "", "Reserva", "EARoot/EA16.htm", "5.png", "-1181670931", "0", "", "Class");
+tocTab[tocTab.length] = new Array("0:13", "", "Usuarios", "EARoot/EA17.htm", "5.png", "-760431997", "0", "", "Class");
+tocTab[tocTab.length] = new Array("0:14", "", "Venta", "EARoot/EA18.htm", "5.png", "1203591627", "0", "", "Class");
+tocTab[tocTab.length] = new Array("1", "", "Domain Objects", "EARoot/EA9.htm", "4.png", "", "", "{DC851300-23F4-414a-8479-2BFE6741B4F2}", "Package");
